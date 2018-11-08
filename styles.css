@@ -1,0 +1,52 @@
+img {
+    height:250px;
+    border: 2px solid Darkolivegreen;
+    border-radius:20px;
+    border-style: double;
+    position: relative;
+   
+    
+}
+
+header{
+    color:Darkcyan;
+    font-family: 'Permanent Marker', cursive;
+    font-size:60px;
+}
+
+h3 {
+    color:Darkcyan;
+    font-size: 23px;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+p {
+    font-size: 24px;
+    font-family: 'Lato', sans-serif;
+}
+
+ul {
+    font-size:24px;
+    font-family: 'Lato', sans-serif;
+    list-style-type: circle;
+}
+
+body { 
+    background-color:Gainsboro;
+    background-image:url("https://www.muralswallpaper.com/app/uploads/deep-blue-clouded-marble-textures-plain.jpg");
+    text-align:center;
+    
+}
+
+h3:hover { 
+    background-color: lavender;
+}
+
+div {
+    color:Darkslategray;
+    font-family: 'Permanent Marker', cursive;
+     text-align: center;
+     font-size:25px;
+}
+
